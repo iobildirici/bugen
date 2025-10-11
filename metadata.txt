@@ -1,0 +1,10 @@
+[general]
+name=BUGEN
+description=Bina genelleştirmesinde birleştirme, geometri değişimi ve bina genelleştirmesi için geliştirilmiştir. 
+about=Bina verilerinde birleştirme, eleme dış çizginin genelleştirilmesi  problemlerini çözer. Veriler birleştirilir, çok küçük olanlar silinir. Küçük olanlar açıları ile nokta katmanına alınır. Bu katman "Kucukbina" olarak isimlendirilir. Birleştirme öncesi ve sonrası verilen eşik değeri içinde dikdörtgen ve daireye yakın binalar bu şekillere dönüştürülür. Bu işlem şekil yap olarak adlandırılmıştır. Son olarak bina dış çizgi genelleştirmesi uygulanır. Konya Teknik Üniversitesi Lisansüstü Eğitim Enstitüsü Harita Mühendisliği Anabilim Dalı'nda Prof.Dr. İbrahim Öztuğ Bildirici danışmanlığında Sevgi Böge tarafından devam eden doktora tez çalışması kapsamında yapılan uygulamalardan biridir.
+version=1.0
+qgisMinimumVersion=3.10
+author=İbrahim Öztuğ Bildirici
+email=iobildirici@ktun.edu.tr
+repository=https://github.com/iobildirici/bucomp
+homepage=https://github.com/iobildirici/bucomp

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/bugen/" >
+        <file>bugen.png</file>
+    </qresource>
+</RCC>
