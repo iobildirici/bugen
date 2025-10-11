@@ -5,3 +5,6 @@ Prof.Dr. İ.Öztuğ BİLDİRİCİ danışmanlığında Sevgi BÖGE tarafından y
 
 Not: Bu eklenti Bucomp eklentisinin genişletilmiş versiyonudur. Bucomp'da yapılmayan kontur genelleştirmesi (bina dış sınırının
 genelleştirilmesi) buraya eklenmiştir. Ayrıca şekil yapma (dikdörtgene ve daireye dönüşüm) geliştirilmiştir. 
+
+
+Yüklemek için bugen.zip dosyasını indirin. QGIS Plugins penceresinden Install from Zip seçin. 
