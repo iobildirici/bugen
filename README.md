@@ -8,3 +8,5 @@ genelleştirilmesi) buraya eklenmiştir. Ayrıca şekil yapma (dikdörtgene ve d
 
 
 Yüklemek için bugen.zip dosyasını indirin. QGIS Plugins penceresinden Install from Zip seçin. 
+
+Örnek uygulama dosyası için data.zip indirin. Extract edin. Buradaki yeni.shp dosyasını açın. 
