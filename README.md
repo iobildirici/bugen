@@ -1,5 +1,5 @@
 # bugen
-Bina genelleştirmesinde birleştirme, geometri değişimi ve kontur genelleştirmesi amaçlı QGIS eklentisi
+Bina genelleştirmesinde birleştirme, geometri değişimi ve kontur genelleştirmesi amaçlı QGIS eklentisi (QGIS 3.x versiyonları için!)
 
 Prof.Dr. İ.Öztuğ BİLDİRİCİ danışmanlığında Sevgi BÖGE tarafından yürütülen doktora tezi kapsamında hazırlanan eklentilerden biridir.
 
